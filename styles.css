@@ -714,6 +714,8 @@ THIRD PAGE
   flex-direction: column;
   justify-content: flex-start;
   padding-top: 100px;
+  order: 2;
+  
 }
 
 .made_with {
@@ -736,7 +738,7 @@ THIRD PAGE
   height: 80%;
 }
 ul {
-  list-style: 1;
+  list-style: none;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -837,6 +839,7 @@ a:active {
   .three {
     margin-bottom: 0;
     padding-bottom: 0;
+    order: 0;
   }
 
   .svg-animation-container {
