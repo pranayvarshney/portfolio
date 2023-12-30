@@ -1,15 +1,20 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Food Ordering App - Food.ly'
+cover: './show2.png'
+github: 'https://github.com/pranayvarshney/foodApp'
+external: 'https://foodly-pranay.herokuapp.com/'
 tech:
   - React
-  - Styled Components
   - Express
-  - Spotify API
-  - Heroku
+  - Node
+  - MongoDB
+  - Redux
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Restaurant App created using MongoDB , React , Redux , Express and Node Equipped with features such as 
+- Login/Signup facility for users. 
+- All the past orders (with details like amount and items) of a user.
+- Search facility to search for dishes.
+- User can give rating for ordered food.
+

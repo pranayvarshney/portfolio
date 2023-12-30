@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Warranty onChain'
+cover: './show.jpg'
+github: 'https://github.com/pranayvarshney/Flipkart-Grid'
+external: 'https://drive.google.com/file/d/16aP8n0uMKGhvAQMNk3Ta5XzB1yiYDEuv/view?usp=sharing'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Javascript
+  - Solidity
+  - MongoDB
+  - IPFS
+  - Twilio
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+The objective of our product is to replace the physical warranty and have blockchain based warranty using a decaying NFT which will ensure
+authenticity and security. Some useful links [Product Video](https://drive.google.com/file/d/16aP8n0uMKGhvAQMNk3Ta5XzB1yiYDEuv/view?usp=sharing), [Github](https://github.com/pranayvarshney/Flipkart-Grid), [Hosted Link](https://flipkart-grid-isfdw6w18-pranayvarshney.vercel.app/).

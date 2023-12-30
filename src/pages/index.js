@@ -5,6 +5,7 @@ import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@compone
 
 const StyledMainContainer = styled.main`
   counter-reset: section;
+  scroll-behavior: smooth;
 `;
 
 const IndexPage = ({ location }) => (
@@ -14,7 +15,7 @@ const IndexPage = ({ location }) => (
       <About />
       <Jobs />
       <Featured />
-      <Projects />
+      {/* <Projects /> */}
       <Contact />
     </StyledMainContainer>
   </Layout>
