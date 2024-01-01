@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { Icon } from '@components/icons';
@@ -89,10 +89,9 @@ const Footer = () => {
         <a href="https://github.com/pranayvarshney">
           <div>Personalised and Refined By Pranay Varshney</div>
         </a>
-        <a href="https://github.com/bchiang7/v4">
+        <a href="https://brittanychiang.com">
           <div>Designed &amp; Built by Brittany Chiang</div>
         </a>
-        <a href='https://brittanychiang.com'>Brittany Chiang</a>
       </StyledCredit>
     </StyledFooter>
   );
