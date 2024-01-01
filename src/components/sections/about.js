@@ -143,8 +143,8 @@ const About = () => {
             <p>
               Since then I’ve had the privilege of working at{' '}
               <a href="https://www.qualcomm.com/"> Qualcomm </a>,{' '}
-              <a href="https://ncpor.res.in/">a government research center </a>,{' '} ,and {' '}
-              <a href="https://github.com/DaSH-Lab-CSIS">a student led research group</a>{' '}
+              <a href="https://ncpor.res.in/">Government Research Center </a>{' '} and {' '}
+              <a href="https://github.com/DaSH-Lab-CSIS">Student Led Research Group</a>{' '}
             </p>
 
             <p>
